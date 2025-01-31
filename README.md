@@ -148,15 +148,7 @@
     </div>
   </div>
 </div>
-
-
- 
-
-
-**Desktop Software Development:**  
-- **GUI Frameworks:** PyQt, Tkinter, Kivy  
-- **Tools:** PyInstaller, cx_Freeze  
-
+  
 ---
 
 ## 📫 Get in Touch  
