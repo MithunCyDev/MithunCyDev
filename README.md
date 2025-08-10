@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Skills & Technologies  
+## Skills & Technologies  
 
 <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
   <div>
