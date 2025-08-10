@@ -9,13 +9,13 @@
 
 <h2>About Me </h2>
 
-- 🔭 **I’m currently working on:**  
+- **I’m currently working on:**  
   - Developing advanced web applications with **React.js**, **Next.js**, and **Vue.js**.  
   - Exploring **mobile app development** with **React Native**.  
   - Building scalable **backend systems** with **Python**, **Django**, and **FastAPI**.  
   - Designing and developing **desktop software** with **Python**.  
 
-- 👯 **I’m looking to collaborate on:**  
+- **I’m looking to collaborate on:**  
   - Open-source projects involving **JavaScript**, **TypeScript**, or **Python**.  
 
 - 💬 **Ask me about:**  
@@ -151,7 +151,7 @@
   
 ---
 
-## 📫 Get in Touch  
+## Get in Touch  
 
 - **Portfolio:** [mithuncy.dev](#)  
 - **LinkedIn:** [https://www.linkedin.com/in/mithun-cy-4060491b1/](#)  
@@ -159,7 +159,7 @@
 
 ---
 
-### ⭐ Let's Build Together!  
-I’m open to collaboration and discussions about exciting projects. Feel free to connect with me! 😊  
+### Let's Build Together!  
+I’m open to collaboration and discussions about exciting projects. Feel free to connect with me! 
 
 
