@@ -22,7 +22,8 @@
   - Web and mobile app development.  
   - Backend development with **Node.js**, **FastAPI**, and **Django**.  
   - Desktop software design with **Python**.  
-  - Cloud technologies and DevOps tools.  
+  - Cloud technologies and DevOps tools.
+  - Cybersecurity, Networking, and Linux. 
 
 ---
 
